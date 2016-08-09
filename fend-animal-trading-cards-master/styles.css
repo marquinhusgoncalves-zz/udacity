@@ -1,16 +1,26 @@
 .card {
   margin: 0 auto;
-  width: 500px;
+  width: 300px;
   border: 1px solid #aaa;
   padding: 15px;
   box-shadow: 10px 10px 15px -5px rgba(0,0,0,0.75);
 }
-img {
-  width: 100%;
+
+.info {
+  margin-top: 10px;
+  border: 1px solid #aaa;
+  padding: 0 10px;
 }
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
 .italic {
   font-style: italic;
 }
+
 .bold {
   font-weight: bold;
 }
