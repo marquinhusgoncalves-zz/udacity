@@ -1,4 +1,18 @@
+.title {
+  background-color: #33bebe;
+  margin-bottom: 15px;
+  height: 60px;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+}
+
 .app {
-    display: -webkit-flex;
-    display: flex;
+  display: -webkit-flex;
+  display: flex;
+  align-items: center;
+  justify-content: justify-content;
+}
+.description {
+  margin-left: 15px;
 }
